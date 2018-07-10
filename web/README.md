@@ -3,13 +3,12 @@
 | HTML |  Azure Web App, Virtual Machine| |
 
 # Sample HTML website 
-
+DEMO
 Sample HTML/CSS web app that you can deploy to Azure. 
 
 ## License
 
 See [LICENSE](LICENSE).
-
 
 ## Contributing
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
